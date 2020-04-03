@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585909041440.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "656217693",
+    "id" : "5FD9B8C6",
+    "lastKnownWriteTime" : 1585910127,
+    "last_content_update" : 1585910127522,
+    "path" : "C:/Users/Rahul Bhayana/Desktop/temporary_add_to_version_control/First Rmarkdown]/first rmarkdown.Rmd",
+    "project_path" : "First Rmarkdown]/first rmarkdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "32,1",
+        "last_setup_crc32" : "627A8532bb338d19",
+        "scrollLine" : "30",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
